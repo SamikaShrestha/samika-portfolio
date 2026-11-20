@@ -1,0 +1,1 @@
+Portfolio redesign — Editorial + Soft Elegant. Replace YOUR_EMAIL_HERE in index.html. Change semester2Start in script.js to the actual Semester 2 start date. Preview index.html via Live Server. Project visuals are CSS mockups; replace them with project screenshots and links. Theme toggle, mobile nav, responsive layouts, semester display and scroll reveals included.
